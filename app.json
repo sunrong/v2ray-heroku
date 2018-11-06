@@ -9,7 +9,7 @@
      }, 
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
-       "value": "8fd6dadc-0d59-4ae7-93bb-e6b8a231c2c2"
+       "value": "525f2a1d-d802-4cd0-af3c-37529da46c48"
      },
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "每个连接的缓存大小，单位MB",
